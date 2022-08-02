@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@500&family=Lato&display=swap');
+.z{
+
+        width: 100%;
+        height: 657px;
+        opacity: 0.8;
+
+}
+
+.center{
+    position: absolute;
+    top: 38%;
+    width: 100%;
+    max-width: 100%;
+    
+    color: white;
+}
+.center h5{
+    font-size: 3rem;
+    font-weight: 300px;
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.center h1{
+    font-size: 5rem;
+    font-weight: bolder;
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.center p{
+    font-size: 1rem;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    color: #ccc;
+    font-weight: bolder;
+    font-family: 'Edu SA Beginner', cursive;
+    font-weight: lighter;
+}
+
+
+.navbar-nav{
+    color:#fff;
+    padding-left:20px ;
+}
